@@ -1,0 +1,22 @@
+{
+  "name": "sleater",
+  "version": "1.0.0",
+  "description": "Sleater",
+  "main": "sleater.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azure8705/sleater.git"
+  },
+  "author": "Kevin Liwag",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Azure8705/sleater/issues"
+  },
+  "homepage": "https://github.com/Azure8705/sleater#readme",
+  "dependencies": {
+    "musicians": "file:..\\musicians"
+  }
+}
